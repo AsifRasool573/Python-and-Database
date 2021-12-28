@@ -1,5 +1,5 @@
 # Python-and-Database
-In this practice project. There are 3 following files
+In this practice Python and MySQL is being used. Before running the files on your computer make sure MySQL Database is installed on your computer. There are 3 following files
 <ol><li>Python_with_Database</li>
   <li>module_functions</li>
   <li>DataFrame_from_Database</li>
